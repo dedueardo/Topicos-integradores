@@ -1,4 +1,4 @@
-# A IGREJA DA LUA PRATEADAf
+# A IGREJA DA LUA PRATEADA
 ## *"Lunae Argenteae Ecclesia"*
 
 ### Lema: *"A Lua acolhe aqueles que o Sol rejeita"*
