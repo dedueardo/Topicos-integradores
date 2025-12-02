@@ -935,6 +935,7 @@ Felynos tribais veneram **M'nekleth, a Lua Caçadora**, deusa felina da caça, n
 Felynos urbanos frequentemente adotam nomes humanos para facilitar integração. Contudo, nomes tradicionais felynos são curtos, com sons sibilantes e guturais:
 
 **Exemplos Masculinos:** Kael, M'Ryx, O'Zeth, Mako, Shar
+
 **Exemplos Femininos:** Y'Lyra, Mira, Seya, L'Kira, Nya
 
 Nomes tribais tendem a incluir títulos descritivos: "Sombra-Rápida", "Garra-Afiada", "Olhos-de-Lua".
