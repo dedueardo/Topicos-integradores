@@ -776,6 +776,173 @@ Goliaths aventureiros são:
 **Ditado Goliath:**
 *"Montanha não se curva. Nem nós."*
 
+## FELYNOS
+### "Os Caçadores Urbanos"
+
+**Características Físicas:**
+- **Altura Média:** Masculino 165-175cm, Feminino 155-165cm
+- **Maturidade:** 14 anos
+- **Expectativa de Vida:** 65-70 anos (raça de vida curta)
+- **Compleição:** Esguios, ágeis, com características felinas pronunciadas
+
+Felynos são humanoides com traços distintamente felinos que os diferenciam de todas outras raças:
+
+**Características Felinas:**
+- **Orelhas de Gato:** Orelhas pontudas no topo da cabeça (substituem orelhas humanas)
+- **Cauda Longa:** Cauda felina expressiva e flexível, usada para equilíbrio
+- **Pelagem Parcial:** Pelagem cobrindo costas, braço direito completo até mão, ombro e braço superior esquerdo, parte superior das coxas
+- **Garras Retráteis:** Unhas são garras afiadas com pontas letais
+- **Presas:** Caninos pronunciados similares a grandes felinos
+- **Olhos Felinos:** Pupilas verticais que se dilatam em baixa luminosidade
+  
+**Variação Individual:**
+
+Padrões de pelagem variam enormemente entre felynos:
+- Cores: preto, marrom, laranja, branco, cinza, ou combinações
+- Padrões: listrado (tigrado), manchado (leopardo), sólido, ou malhado
+- Comprimento: curto e aveludado ou longo e fluído
+
+Não há dois felynos com pelagem idêntica, cada um é único como impressão digital.
+
+**Habilidades Naturais:**
+
+**Agilidade Sobre-Humana:**
+Felynos são extraordinariamente ágeis, capacidade de equilíbrio, reflexos e coordenação motora são superiores a qualquer outra raça (exceto talvez fadas, mas fadas voam, então não conta).
+
+Podem:
+- Cair de alturas consideráveis e aterrissar de pé sem ferimentos
+- Escalar superfícies verticais com facilidade usando garras
+- Correr em velocidades impressionantes em avanços curtos
+- Realizar acrobacias complexas instintivamente
+
+**Sentidos Aguçados:**
+
+**Visão Noturna Completa:**
+Felynos enxergam perfeitamente na escuridão. Necessitam apenas luz mínima para ver claramente. Isto os torna exploradores noturnos ideais.
+
+**Olfato Refinado:**
+Não tão poderoso quanto kobolds, mas significativamente superior a humanos. Podem rastrear presas pelo cheiro, identificar indivíduos pelo odor único, e detectar comida estragada instantaneamente.
+
+**Audição Sensível:**
+Orelhas felinas captam sons que outras raças não percebem. Podem ouvir conversas sussurradas a distâncias consideráveis e detectar movimento furtivo.
+
+**Garras em Combate:**
+
+As garras de felynos são armas naturais letais:
+- Podem causar ferimentos profundos e lacerantes
+- Ideais para ataques rápidos e múltiplos
+- Eficazes em combate desarmado
+
+**Contudo:** Maioria dos felynos prefere usar **armas convencionais**.
+
+**História e Distribuição:**
+
+Felynos viviam em três regiões distintas de Domus Aurea:
+
+1. **Desertos do Norte:**
+Tribos nômades felinas caçavam e competiam ferozmente com tribos kobolds pelo território. A rivalidade felyno-kobold tem séculos de história violenta:
+- Disputas por oásis e recursos escassos
+- Saques mútuos constantes
+- Ódio geracional profundo de ambos os lados
+
+Felynos do deserto desenvolveram pelagem mais curta e clara (tons de areia, creme, dourado) como adaptação ao calor.
+
+2. **Selva do Oeste:**
+Clãs felynos arbóreos viviam em habitações nas árvores, caçando e comerciando ocasionalmente com os habitantes da selva. Eram mais isolados e tradicionais.
+
+Pelagem mais escura e manchada (imitando sombras de folhagens) predominava.
+
+3. **Floresta do Leste:**
+Similar ao Oeste, mas com mais contato com assentamentos humanos próximos. Felynos do oeste foram os primeiros a urbanizar-se parcialmente.
+
+**Após a Abertura da Torre (últimos 200 anos):**
+
+Felynos migraram massivamente para cidades, especialmente a capital imperial. Razões:
+
+- **Oportunidade Econômica:** Cidades oferecem empregos e riqueza
+- **Guilda dos Aventureiros:** Felynos são aventureiros naturalmente talentosos
+- **Escape da Pobreza:** Vida tribal no deserto/floresta é brutal
+- **Aceitação Social:** Cidades cosmopolitas são menos preconceituosas
+
+Hoje, **maioria dos felynos vive em ambientes urbanos**, embora tribos tradicionais ainda existam nas regiões ancestrais.
+
+**Cultura e Sociedade:**
+
+**Esperteza e Adaptabilidade:**
+
+Felynos possuem reputação de serem **espertos, astutos e socialmente hábeis**. Isto não é estereótipo vazio, é característica cultural cultivada por séculos de sobrevivência em ambientes hostis.
+
+**Diferença Crucial dos Kobolds:**
+
+Enquanto kobolds são socialmente isolados e frequentemente escravizados, felynos são:
+
+**Socialmente Integrados:**
+- Dominam linguagem corporal e sinais sociais
+- Negociam efetivamente
+- Formam redes de contatos e alianças
+- Compreendem hierarquias e como navegá-las
+
+**Autonomia Reconhecida:**
+- Nunca foram escravizados sistematicamente (resistiram ferozmente tentativas)
+- Estabeleceram-se como raça "civilizada" aos olhos de outras
+- Possuem comunidades organizadas e voz política
+
+**Aparência Humanóide:**
+Embora possuam traços felinos óbvios, felynos ainda são predominantemente humanoides. Isto reduz "fator desconforto" que outras raças experimentam. Comparação:
+
+- **Felyno:** "Humano com características de gato", Exótico mas familiar
+- **Kobold:** "Cão bípede", Alienígena e desconfortável
+
+Esta diferença, embora superficial, teve impacto enorme na aceitação social.
+
+Apesar de melhor tratados que kobolds, felynos ainda enfrentam discriminação:
+
+**Estereótipos Comuns:**
+- **"Ladrões naturais":** Agilidade e silêncio = associação com crime
+- **"Não confiáveis":** Esperteza = traição em potencial
+- **"Preguiçosos":** Mito baseado em felinos domésticos dormirem muito
+- **"Promíscuos":** Baseado em ciclos reprodutivos felinos 
+
+**Relação com Kobolds:**
+
+Complexa e tensa. Séculos de rivalidade no deserto não desaparecem facilmente.
+
+- Evitam-se mutuamente quando possível
+- Ocasionais confrontos violentos
+- Alianças raras mas não impossíveis
+
+**Relação com Outras Raças:**
+
+- **Humanos:** Geralmente positiva; humanos apreciam esperteza felyna
+- **Elfos:** Curiosidade mútua; ambos valorizam graça e estética
+- **Anões:** Desconfiança leve (anões acham felynos "superficiais")
+- **Kobolds:** Tensão histórica profunda
+
+**Igreja e Felynos:**
+
+**Igreja Solar:**
+Indiferente mas levemente desconfiada. Não há doutrina específica contra felynos, mas preconceito cultural existe.
+
+**Igreja Lunar:**
+Acolhedora. Vê felynos como exemplo de raça que superou marginalização através de adaptação e inteligência.
+
+**Espiritualidade Felyna Tradicional:**
+
+Felynos tribais veneram **M'nekleth, a Lua Caçadora**, deusa felina da caça, noite e agilidade. Com urbanização, muitos felynos converteram-se às igrejas Solusicas, mas práticas ancestrais persistem discretamente.
+
+**Nomes Felynos:**
+
+Felynos urbanos frequentemente adotam nomes humanos para facilitar integração. Contudo, nomes tradicionais felynos são curtos, com sons sibilantes e guturais:
+
+**Exemplos Masculinos:** Kael, M'Ryx, O'Zeth, Mako, Shar
+**Exemplos Femininos:** Y'Lyra, Mira, Seya, L'Kira, Nya
+
+Nomes tribais tendem a incluir títulos descritivos: "Sombra-Rápida", "Garra-Afiada", "Olhos-de-Lua".
+
+**Ditado Felyno:**
+
+*"O rato rígido morre no deserto. O rato esperto bebe no oásis do inimigo."*
+
 # REFLEXÕES FINAIS: A DIVERSIDADE DE DOMUS AUREA
 
 O continente **Domus Aurea** ("Casa Dourada" em língua élfica antiga, nome dado por Aldrod) é lar de diversidade racial extraordinária. Cada raça traz história, cultura e perspectiva únicas.
