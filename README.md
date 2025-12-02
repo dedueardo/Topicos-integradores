@@ -154,7 +154,7 @@ Meio-elfos, considerados aberrações tabu em terras da Igreja, encontraram ref�
 
 Um problema não podia mais ser ignorado: a **Cólera da Torre** estava se intensificando.
 
-O miasma púrpura que sempre emanara da Torre, mesmo selada, tornava-se mais denso. Criaturas nas redondezas mutavam com maior frequência. Casos de adventureiros expostos prolongadamente desenvolvendo aberrações físicas aumentaram.
+O miasma que sempre emanara da Torre, mesmo selada, tornava-se mais denso. Criaturas nas redondezas mutavam com maior frequência. Casos de adventureiros expostos prolongadamente desenvolvendo aberrações físicas aumentaram.
 
 A Igreja viu oportunidade. "Viram?", proclamavam os clérigos, "A profanação da Torre desperta sua maldição! O fim se aproxima!"
 
