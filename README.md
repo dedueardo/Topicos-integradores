@@ -9,7 +9,7 @@ Aldrod trazia consigo o Dom da Magia, conhecimento arcano de eras esquecidas. Em
 
 Entre os humanos, destacou-se Solusi, homem de virtude imaculada e coração incorruptível. Juntos, Aldrod e Solusi lideraram uma cruzada contra as bestas tirânicas, libertando o continente da opressão milenar. Quando a última das criaturas anciãs tombou, Solusi foi aclamado rei de todas as terras unificadas, e Aldrod, seu mais fiel conselheiro e amigo de alma.
 
-Por gerações, a paz floresceu. O reino prosperou sob a sabedoria de Solusi e o conhecimento de Aldrod. Os povos, humanos, anões, tieflings, gnomos, draconatos, orcs, goliaths e fadas, viviam em harmonia. Diziam que aquela era a Era Dourada, quando os céus pareciam mais próximos e a luz divina tocava cada coração.
+Por gerações, a paz floresceu. O reino prosperou sob a sabedoria de Solusi e o conhecimento de Aldrod. Os povos, humanos, anões, tieflings, gnomos, orcs, goliaths e fadas, viviam em harmonia. Diziam que aquela era a Era Dourada, quando os céus pareciam mais próximos e a luz divina tocava cada coração.
 
 ### DA TENTAÇÃO E DA QUEDA
 
@@ -25,7 +25,7 @@ Em segredo absoluto, Aldrod preparou seu pecado supremo.
 
 Numa noite sem lua nem estrelas, quando até os deuses pareciam ter desviado o olhar, Aldrod iniciou seu ritual nefasto. Usando magia proibida e sacrifícios impronunciáveis, ele ergueu do próprio chão uma estrutura colossal, a Torre.
 
-A Torre rasgou a terra como lança atravessando carne. Elevou-se aos céus em proporções impossíveis, maior que montanhas, mais vasta que cidades inteiras. Sua sombra caiu sobre o reino como prenúncio de morte. Suas paredes eram feitas de pedra negra que parecia absorver a própria luz, e de seu ápice emanava um miasma púrpura e doentio, a Cólera, como seria conhecida.
+A Torre rasgou a terra como lança atravessando carne. Elevou-se aos céus em proporções impossíveis, maior que montanhas, mais vasta que cidades inteiras. Sua sombra caiu sobre o reino como prenúncio de morte. Suas paredes eram feitas de pedra negra que parecia absorver a própria luz, e de seu ápice emanava um miasma doentio, a Cólera, como seria conhecida.
 
 Das entranhas da Torre brotaram as Mil Legiões de Aldrod. Criaturas retorcidas e abominações impensáveis marcharam sobre o continente. O que a Cólera tocava, corrompía, homens transformavam-se em monstros, animais em aberrações, a própria terra tornava-se estéril e maldita. O paraíso converteu-se em inferno.
 
